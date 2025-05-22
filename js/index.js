@@ -52,5 +52,3 @@ downloadButton.addEventListener('click', (event) => {
     }
     return;
 })
-
-console.log(downloadButton)
